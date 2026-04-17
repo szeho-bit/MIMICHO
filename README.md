@@ -1,5 +1,4 @@
-# MIMICHO
-<!DOCTYPE html>
+# 八個方向大冒險
 <html lang="zh-HK">
 <head>
     <meta charset="UTF-8">
